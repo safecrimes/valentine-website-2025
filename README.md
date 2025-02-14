@@ -11,11 +11,6 @@ A beautiful, interactive Valentine's Day website generator to ask your special s
 
 ## 🌟 Share The Love
 
-Help others find this project:
-- ⭐ Star this repository if you like it
-- 🔄 Fork it to create your own version
-- 📢 Share on your social media
-- 📱 Show your creation to friends
 
 ### 📣 Share on Social Media
 
@@ -85,8 +80,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Sammie"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine? :3 " // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -125,7 +120,7 @@ loveMessages: {
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    emojis: "💖🤗💝❤️💕"                        // Celebration emojis
 }
 
 // Website Colors
